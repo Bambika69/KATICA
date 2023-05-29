@@ -1,3 +1,5 @@
+![Picture1](https://github.com/Bambika69/KATICA/assets/75277064/9f5572c3-8e38-404a-ad17-70776ea12c4e)
+
 # KATICA
 Knowledge-Assisted Textual Interface and Conversation Agent
 
